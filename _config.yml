@@ -1,5 +1,3 @@
-title: Md Tanvir Rahman
-logo: assets/img/DSC00758 (1).jpg
-#description: text below image
-show_downloads: false
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
